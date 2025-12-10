@@ -26,8 +26,6 @@ The dashboard includes:
 
 🏷️ Reason-wise cancellation breakdown
 
-(You can add screenshots here later.)
-
 🧠 Key Insights
 
 Cancellation rate spikes during peak hours (7–10 AM and 6–9 PM).
